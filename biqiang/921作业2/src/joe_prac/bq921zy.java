@@ -43,6 +43,7 @@ public class bq921zy {
 		if(Gender=="ÄÐ"|Gender=="Å®") {
 			gender=Gender;
 		}
+		
 	}
 	
 	public static void main(String[] args) {
@@ -56,11 +57,6 @@ public class bq921zy {
 		System.out.println(hero1.getName());
 		System.out.println(hero1.getClan());
 		System.out.println(hero1.getGender());
-		
-		
-		
-		
-		
 		
 		
 		
